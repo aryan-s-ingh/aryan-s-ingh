@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aryan Singh</h1>
+<div align="center">
+  <img width="230" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631424300/Self/ezgif-5-68a1793b1a9d_yea9o1.gif" />
+</div>
+<h1 align="center">Hi 👋, I'm Aryan Singh<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <h3 align="center">Software Developer | Problem Solver | AI Enthusiast</h3>
 
 <p align="center">
@@ -7,6 +10,13 @@
   <a href="https://codeforces.com/profile/singh.ary04"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white"></a>
   <a href="mailto:singh.ary.04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
 </p>
+<div align="center">
+<img  alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</div>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Atharv+Shukla;I+Am+A+Final+Year+Btech+Student;Full+Stack-Web+Devloper;MERN;Blockchain"></a>
+</p>
+
 
 ---
 
