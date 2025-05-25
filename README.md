@@ -17,8 +17,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Aryan+Singh.;Final+Year+B.Tech+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Let's+build+something+great+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Aryan+Singh.;Final+Year+B.Tech+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Let%27s+build+something+great+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 
 ### 🚀 About Me
