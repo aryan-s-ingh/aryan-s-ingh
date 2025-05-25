@@ -14,7 +14,7 @@
 <img  alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Atharv+Shukla;I+Am+A+Final+Year+Btech+Student;Full+Stack-Web+Devloper;MERN;Blockchain"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Aryan+Singh;I+Am+A+Final+Year+Btech+Student;Full+Stack+Devloper;MERN></a>
 </p>
 
 
